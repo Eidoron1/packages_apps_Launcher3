@@ -19,7 +19,7 @@ package com.android.launcher3;
 import com.android.launcher3.uioverrides.QuickstepLauncher;
 import com.android.systemui.plugins.shared.LauncherOverlayManager;
 
-public class SuperiorLauncher extends QuickstepLauncher {
+public class CatalystLauncher extends QuickstepLauncher {
 
     @Override
     protected LauncherOverlayManager getDefaultOverlay() {
