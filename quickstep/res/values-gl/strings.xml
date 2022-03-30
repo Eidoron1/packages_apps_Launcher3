@@ -108,6 +108,6 @@
     <string name="taskbar_button_recents" msgid="7273376136216613134">"Recentes"</string>
     <string name="taskbar_button_notifications" msgid="7471740351507357318">"Notificacións"</string>
     <string name="taskbar_button_quick_settings" msgid="227662894293189391">"Configuración rápida"</string>
-    <string name="move_drop_target_top_or_left" msgid="2988702185049595807">"Mover á parte superior ou á esquerda"</string>
+    <string name="move_drop_target_top_or_left" msgid="2988702185049595807">"Mover á parte catalyst ou á esquerda"</string>
     <string name="move_drop_target_bottom_or_right" msgid="5431393418797620162">"Mover á parte inferior ou á dereita"</string>
 </resources>
